@@ -14,7 +14,7 @@ body {
     color: white;
     opacity: 50%;
     border: 5px solid black;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    font-family: 'Major Mono Display', monospace;
     font-size: 18pt;
 }
 
